@@ -1,0 +1,41 @@
+{
+  "pessoas": [
+    {
+      "nomeCompleto": "Geronimo",
+      "email": "geronimo@gmail.com",
+      "cidadeId": 5,
+      "id": 157
+    },
+    {
+      "nomeCompleto": "Helder",
+      "email": "helder.hs@gmail.com",
+      "cidadeId": 6,
+      "id": 158
+    }
+  ],
+  "cidades": [
+    {
+      "nome": "Novo Hamburgo",
+      "id": 2
+    },
+    {
+      "nome": "Palmitinho",
+      "id": 4
+    },
+    {
+      "nome": "Caxias",
+      "id": 5
+    },
+    {
+      "nome": "Sapucaia do Sul",
+      "id": 6
+    },
+    {
+      "nome": "Tramandaí",
+      "id": 7
+    }
+  ],
+  "auth": {
+    "accessToken": "aaaaaaaaaa.bbbbbbbbbb.cccccccc"
+  }
+}
